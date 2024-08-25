@@ -5,28 +5,28 @@ This is a Spring Boot application designed for managing a blog platform. It supp
 The Blog API provides the following key features:
 
 1. User Management
-    a.  Create and manage user accounts, including roles, passwords, and profiles.
-    b.  Users can create blog posts, leave comments, and like posts.
+    - Create and manage user accounts, including roles, passwords, and profiles.
+    -  Users can create blog posts, leave comments, and like posts.
 
 2. Blog Posts
-    a.  Full CRUD (Create, Read, Update, Delete) functionality for blog posts.
-    b.  Each post includes a title, content, summary, publication date, and author.
+    -  Full CRUD (Create, Read, Update, Delete) functionality for blog posts.
+    -  Each post includes a title, content, summary, publication date, and author.
 
 3. Categories
-    a.  Organize blog posts by categories.
-    b.  Categories include a name and description and can be linked to multiple posts.
+    -  Organize blog posts by categories.
+    -  Categories include a name and description and can be linked to multiple posts.
 
 4. Tags
-    a.  Tag posts with keywords.
-    b.  Tags include a name and description and can be applied to multiple posts.
+    -  Tag posts with keywords.
+    -  Tags include a name and description and can be applied to multiple posts.
 
 5. Comments
-    a.  Users can leave comments on blog posts.
-    b.  Each comment includes content, a creation date, and is linked to a specific post and author.
+    -  Users can leave comments on blog posts.
+    -  Each comment includes content, a creation date, and is linked to a specific post and author.
 
 6. Likes
-    a.  Users can like blog posts.
-    b.  Each like is linked to a specific post and user, with a record of the creation date.
+    -  Users can like blog posts.
+    -  Each like is linked to a specific post and user, with a record of the creation date.
 
 # Technologies
 The following technologies are used in this application:
